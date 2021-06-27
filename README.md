@@ -7,5 +7,5 @@ Lecture notes and psets for Harvard CS50 course
 
 
 ### Program
-- [Week 0](https://cs50.harvard.edu/x/2021/weeks/0/)
-- [Week 1](https://cs50.harvard.edu/x/2021/weeks/1/)
+- [Week 0 Scratch](https://cs50.harvard.edu/x/2021/weeks/0/)
+- [Week 1 C](https://cs50.harvard.edu/x/2021/weeks/1/)
