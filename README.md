@@ -9,3 +9,15 @@ Lecture notes and psets for Harvard CS50 course
 ### Program
 - [Week 0 Scratch](https://cs50.harvard.edu/x/2021/weeks/0/)
 - [Week 1 C](https://cs50.harvard.edu/x/2021/weeks/1/)
+    - [ ] Lecture
+        - [x] Video
+        - [ ] Notes
+        - [ ] Source Code
+    - [x] Lab 1
+    - [ ] Shorts
+        - [ ] Data Types
+        - [ ] Operators
+        - [ ] Conditional Statements
+        - [ ] Loops
+        - [ ] Command Line
+    - [x] Pset
