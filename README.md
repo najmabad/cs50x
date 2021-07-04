@@ -10,7 +10,6 @@ Lecture notes and psets for Harvard CS50 course
 
 ### Week 0
 
----
 <details> 
 <summary> Lecture </summary>
 
@@ -19,7 +18,6 @@ Lecture notes and psets for Harvard CS50 course
 
 ### Week 1
 
----
 <details> 
 <summary> Lecture</summary>
 
@@ -30,8 +28,6 @@ Lecture notes and psets for Harvard CS50 course
 
 
 ### Week 2
-
----
 
 <details>
 
