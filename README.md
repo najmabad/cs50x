@@ -28,6 +28,7 @@ Lecture notes and psets for Harvard CS50 course
 <details>
 <summary> Week 2: Arrays </summary>
 
+  
 *Course website: [https://cs50.harvard.edu/x/2021/weeks/2/](https://cs50.harvard.edu/x/2021/weeks/2/)*
 
 
