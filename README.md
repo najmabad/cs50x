@@ -65,7 +65,7 @@ Lecture notes and psets for Harvard CS50 course
 <summary> Week 3: Algorithms </summary>
 
   
-*Course website: [https://cs50.harvard.edu/x/2021/weeks/2/](https://cs50.harvard.edu/x/2021/weeks/2/)*
+*Course website: [https://cs50.harvard.edu/x/2021/weeks/5/](https://cs50.harvard.edu/x/2021/weeks/3/)*
 
 
 ### Lecture 
