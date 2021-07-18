@@ -78,7 +78,7 @@ Lecture notes and psets for Harvard CS50 course
 ### Lab3 
 
 - [x] [Instructions](https://cs50.harvard.edu/x/2021/labs/3/)
-- []  [Sort]()
+- [ ]  [Sort]()
 
 ### Problem Set 3 
 
