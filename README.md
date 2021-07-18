@@ -8,8 +8,6 @@ Lecture notes and psets for Harvard CS50 course
 
 ## Syllabus
 
-
-
 <details> 
 <summary> Week 0: Scratch </summary>
 
@@ -28,6 +26,7 @@ Lecture notes and psets for Harvard CS50 course
 <details>
 <summary> Week 2: Arrays </summary>
 
+  
 *Course website: [https://cs50.harvard.edu/x/2021/weeks/2/](https://cs50.harvard.edu/x/2021/weeks/2/)*
 
 
@@ -59,6 +58,44 @@ Lecture notes and psets for Harvard CS50 course
 - [ ] [Arrays](https://cs50.harvard.edu/x/2021/shorts/arrays/)
 - [ ] [Command Line Arguments](https://cs50.harvard.edu/x/2021/shorts/command_line_arguments/)
 
+
+</details>
+
+<details>
+<summary> Week 3: Algorithms </summary>
+
+  
+*Course website: [https://cs50.harvard.edu/x/2021/weeks/2/](https://cs50.harvard.edu/x/2021/weeks/2/)*
+
+
+### Lecture 
+
+- [x] [Video](https://www.youtube.com/watch?v=gR6nycuZKlM&feature=youtu.be)
+- [ ] [Notes](https://cs50.harvard.edu/x/2021/notes/3/)
+- [ ] [Source Code](https://cdn.cs50.net/2020/fall/lectures/3/src3.pdf)
+
+
+### Lab3 
+
+- [x] [Instructions](https://cs50.harvard.edu/x/2021/labs/3/)
+- []  [Sort]()
+
+### Problem Set 3 
+
+- [x] [Instructions](https://cs50.harvard.edu/x/2021/psets/3/)
+- [x] [Plurality- MySolution](https://github.com/najmabad/cs50x/blob/main/pset2/readability.c)
+- [x] [Runoff - MySolution](https://github.com/najmabad/cs50x/blob/main/pset2/caesar.c)
+
+
+### Shorts 
+
+- [ ] [Linear Search](https://cs50.harvard.edu/x/2021/shorts/linear_search/)
+- [ ] [Binary Search](https://cs50.harvard.edu/x/2021/shorts/binary_search/)
+- [ ] [Bubble Sort](https://cs50.harvard.edu/x/2021/shorts/bubble_sort/)
+- [ ] [Selection Sort](https://cs50.harvard.edu/x/2021/shorts/selection_sort/)
+- [ ] [Recursion](https://cs50.harvard.edu/x/2021/shorts/recursion/)
+- [ ] [Merge Sort](https://cs50.harvard.edu/x/2021/shorts/merge_sort/)
+ 
 
 </details>
 
