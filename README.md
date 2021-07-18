@@ -83,8 +83,8 @@ Lecture notes and psets for Harvard CS50 course
 ### Problem Set 3 
 
 - [x] [Instructions](https://cs50.harvard.edu/x/2021/psets/3/)
-- [x] [Plurality- MySolution](https://github.com/najmabad/cs50x/blob/main/pset2/readability.c)
-- [x] [Runoff - MySolution](https://github.com/najmabad/cs50x/blob/main/pset2/caesar.c)
+- [x] [Plurality- MySolution](https://github.com/najmabad/cs50x/blob/main/pset3/plurality.c)
+- [x] [Runoff - MySolution](https://github.com/najmabad/cs50x/blob/main/pset3/runoff.c)
 
 
 ### Shorts 
